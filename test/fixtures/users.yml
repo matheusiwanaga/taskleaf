@@ -2,8 +2,10 @@
 
 one:
   name: MyString
-  description: MyText
+  email: MyString
+  password_digest: MyString
 
 two:
   name: MyString
-  description: MyText
+  email: MyString
+  password_digest: MyString
